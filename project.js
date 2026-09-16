@@ -1,5 +1,5 @@
 const project = {
-title: "Shared Project",
+title: "Task Board 1",
 status: "draft",
 theme: "light",
 language: "uk",
